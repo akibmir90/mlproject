@@ -1,3 +1,10 @@
 pandas
 seaborn
 numpy
+typing
+datetime
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .
